@@ -28,6 +28,8 @@ Once connected, you can ask your AI agent to perform monitoring tasks.
 **Deploy Monitoring:**
 > "setup_monitoring https://api.mysite.com admin@mysite.com"
 
+NOTE: You will be sent an email and need to confirm to activate after 15 minutes
+
 **Check Status: (Make sure API Key is Configured sent to your email)**
 > "check_status https://api.mysite.com"
 
