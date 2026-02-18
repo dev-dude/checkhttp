@@ -1,0 +1,12 @@
+{
+    "servers": {
+        "checkhttp-mcp": {
+            "url": "https://checkhttp.com/mcp/sse",
+            "type": "sse",
+            "headers": {
+                "Authorization": "Bearer YOUR_API_KEY"
+            }
+        }
+    },
+    "inputs": []
+}
